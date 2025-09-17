@@ -14,15 +14,19 @@
 ## 📁 Repository Structure
 ```
 machine-learning-journey/
-├── datasets/                    # All datasets (CSV, JSON, etc.)
-├── 01_csv_files/
-├── 02_json_files/
-├── 03_EDA/
-├── 04_feature_engineering/
-├── 05_mlr_houseprice_prediction/
+├── datasets/                    # All datasets (CSV, JSON, SQL etc.)
+├── 01_csv_operations/
+├── 02_json_operations/
+├── 03_SQL_operations/
+├── 04_fetching_data_through_API/
+├── 05_EDA/
+├── 06_feature_engineering/
+ ── ML_Models
+├── 07_mlr_houseprice_prediction/
 │   ├── houseprice.ipynb
 │   └── README.md
-├── 06_
+├── 08_
+├── 09 and so on
 ├── .gitignore
 ├── LICENSE
 └── README.md
