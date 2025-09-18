@@ -19,14 +19,16 @@ machine-learning-journey/
 ├── 02_json_operations/
 ├── 03_SQL_operations/
 ├── 04_fetching_data_through_API/
-├── 05_EDA/
-├── 06_feature_engineering/
+├── 05_understanding_data_basic_&_necessary_operations
+├── 06_EDA/
+├── 07_feature_engineering/
  ── ML_Models
-├── 07_mlr_houseprice_prediction/
+├── 08_mlr_houseprice_prediction/
 │   ├── houseprice.ipynb
 │   └── README.md
-├── 08_
-├── 09 and so on
+├── 09_
+├── 10_
+├── 0_And so on
 ├── .gitignore
 ├── LICENSE
 └── README.md
